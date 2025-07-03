@@ -77,12 +77,14 @@ div{
 main{
   min-height: 72vh;
   font-size: var(--FONT-SIZE);
-  background-color: darkgray;
+  background-color: #282D35;
+  color: white;
   padding: 2rem;
   display: flex;
   flex-direction: column;
   margin-bottom: 0;
   gap: 1rem;
+
 }
 
 .main__div {
